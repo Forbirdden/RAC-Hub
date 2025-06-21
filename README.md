@@ -2,7 +2,7 @@
 
 Here you can find RAC clients, servers and more 
 
-You can help RAC Hub by [adding more information](https://github.com/Forbirdden/rachub/pulls)
+You can help RAC Hub by [adding more information](https://github.com/MeexReay/RAC-Hub/pulls)
 
 # Clients
 
@@ -61,3 +61,4 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 - [User agents](USER_AGENTS.md)
 - [Original RAC-Hub](https://github.com/The-Stratosphere-Solutions/RAC-Hub)
+- [RAC-Hub github](https://github.com/MeexReay/RAC-Hub)
