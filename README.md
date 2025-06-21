@@ -13,17 +13,17 @@ You can help RAC Hub by [adding more information](https://github.com/MeexReay/RA
 | [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | v2 | v2 |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | v1.99.2 | ❌ |
 | Snowdrop | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | ❌ | v2 |
-| [сRACk](https://github.com/pansangg/cRACk) | client for RAC kettles (TUI) | pansangg | [GitHub](https://github.com/pansangg/cRACk/releases) | Active | Python | v2 | ❌ |
+| [сRACk](https://github.com/pansangg/cRACk)[^5] | client for RAC kettles (TUI) | pansangg | [GitHub](https://github.com/pansangg/cRACk/releases) | Active | Python | v2 | ❌ |
 | [Tower](https://github.com/kostya-zero/tower) | GUI client for RAC developed using Tauri | Kostya Zero | ❌ | Active | Rust | v2 | ❌ |
 | [RAC.rs](https://github.com/kostya-zero/rac-rs) | A Rust client library for RAC | Kostya Zero | ❌ | Active | Rust | v2 | v2 |
 | [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/src/branch/main/dobroho_vechora.bash) | Abandoned | Bash | v1[^2] | ❌ |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java | v1, v1.99.2 | ❌ |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned | C# | v1.99.2 | ❌ |
-| lRAC[^3] | The first original RAC client developed using the tkinter library | Mr. Sugoma | [GitHub](https://github.com/MeexReay/RAC-Hub/tree/main/Archive/lRAC) | Abandoned | Python | v1 | ❌ |
+| lRAC | The first original RAC client developed using the tkinter library | Mr. Sugoma | [GitHub](https://github.com/MeexReay/RAC-Hub/tree/main/Archive/lRAC) | Abandoned | Python | v1[^4] | ❌ |
 
 [^1]: bRAC-0.1.3+2.0 requires GTK4 to be installed on Windows [(see more)](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 [^2]: "_Я раньше хотел допилить его до v2, но мой bash код было трудно обновить_" - chunbyonga
-
+[^5]: "_Не срал с утра или прошлого вечера, терпел ради cRACkа._" - pansangg
 
 # Server software
 
