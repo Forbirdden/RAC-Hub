@@ -32,7 +32,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | lRACd | The official RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Obvt) | Active | C | v2 | ❌ |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Abandoned | Java | v1.99.2 | ❌ |
 | [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | [GitHub](https://github.com/MeexReay/sRAC/releases) | Active | Rust | v2 | v2 | 
-| Gashishnik | WRAC server | OctoBanon | Soon... | In development | Rust | ❌ | v2 | ❌ |
+| Gashishnik | WRAC server | OctoBanon | Soon... | In development | Rust | ❌ | v2 |
 | [AlmatyD](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Abandoned[^3] | TypeScript | v1 | ❌ |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java | v1, v1.99.2 | ❌ |
 | Butter | Simple Node.js RAC server | Forbirdden | ❌ | Abandoned | JavaScript | v1.99, v2 | ❌ |
