@@ -1,8 +1,23 @@
-# User agents
+# Users additions
 
-User agents in RAC is the way how to get know from what client the message was sent. It works by just checking the message text throught regex. 
+## Server info packet
 
-## Clients
+Client sends:
+
+- Byte `0x69`
+
+Server sends:
+
+- (nothing or closes socket if server doesn't support this feature)
+- Protocol version:
+    - Byte `0x01` for RACv1 
+    - Byte `0x02` for RACv1.99
+    - Byte `0x03` for RACv2
+- Server name
+
+## User agents
+
+User agents in RAC is the way how to get know from what client the message was sent. It works by just checking the message text throught regex.
 
 Here are listed the most common clients, and their common names colors in the chat.
 

@@ -7,11 +7,11 @@ You can help RAC Hub by [adding more information](https://github.com/MeexReay/RA
 |                                   Title                                   |                            Description                            |   Author    |                                                      Download                                                      |     Status     |    Lang    |     RAC     | WRAC |
 | :-----------------------------------------------------------------------: | :---------------------------------------------------------------: | :---------: | :----------------------------------------------------------------------------------------------------------------: | :------------: | :--------: | :---------: | :--: |
 | [bRAC](https://github.com/MeexReay/bRAC)[^1]                              | better RAC client (GUI)                                           | MeexReay    | [GitHub](https://github.com/MeexReay/bRAC/releases)                                                                | Active         |    Rust    |     v2      |  v2  |
-| [RAC.rs](https://github.com/kostya-zero/rac-rs)                           | Rust library for RAC client                                       | Kostya Zero | ❌                                                                                                                 | Active         |    Rust    |     v2      |  v2  |
-| [Tower](https://github.com/kostya-zero/tower)                             | GUI client for RAC developed using Tauri                          | Kostya Zero | ❌                                                                                                                 | Active         |    Rust    |     v2      |  ❌  |
-| clRAC                                                                     | The official RAC client                                           | Mr. Sugoma  | [WDfiles](https://wdfiles.ru/Ofx7)                                                                                 | Active         |     C      |     v2      |  ❌  |
 | [сRACk](https://github.com/pansangg/cRACk)[^5]                            | client for RAC kettles (TUI)                                      | pansangg    | [GitHub](https://github.com/pansangg/cRACk/releases)                                                               | Active         |   Python   |     v2      |  ❌  |
+| clRAC                                                                     | The official RAC client                                           | Mr. Sugoma  | [WDfiles](https://wdfiles.ru/Ofx7)                                                                                 | Active         |     C      |     v2      |  ❌  |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client)         | TUI client for RAC                                                | OctoBanon   | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases)                                             | Active         |    Rust    |   v1.99.2   |  ❌  |
+| [RAC.rs](https://github.com/kostya-zero/rac-rs)                           | Rust library for RAC client                                       | Kostya Zero | ❌                                                                                                                 | Active         |    Rust    |     v2      |  v2  |
+| [Tower](https://github.com/kostya-zero/tower)                             | GUI client for RAC developed using Tauri                          | Kostya Zero | v2                                                                                                                | Active         |    Rust    |     v2      |  ❌  |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab)                       | Bundle with both client and server                                | pixtaded    | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases)                                        | Frozen         |    Java    |   v1.99.2   |  ❌  |
 | [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client                                      | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/src/branch/main/dobroho_vechora.bash) | Abandoned      |    Bash    |   v1[^2]    |  ❌  |
 | lRAC                                                                      | The first original RAC client developed using the tkinter library | Mr. Sugoma  | [GitHub](https://github.com/MeexReay/RAC-Hub/tree/main/Archive/lRAC)                                               | Abandoned      |   Python   |   v1[^4]    |  ❌  |
@@ -54,12 +54,12 @@ You can help RAC Hub by [adding more information](https://github.com/MeexReay/RA
 - [RACv1.99.x](RACv1.99.md)
 - [RACv2.0](RACv2.md)
 - [WRACv2.0](WRAC.md)
+- [User additions](USER_ADDITIONS.md)
 
 [^4]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
 
 # See also
 
-- [User agents](USER_AGENTS.md)
 - [Original RAC-Hub](https://github.com/The-Stratosphere-Solutions/RAC-Hub)
 - [RAC-Hub github](https://github.com/MeexReay/RAC-Hub)
 - [Archive](https://github.com/MeexReay/RAC-Hub/tree/main/Archive)
